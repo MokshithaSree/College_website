@@ -1,3 +1,3 @@
 College website
-Multiple pages deacribing about college services and infrastructure
-interactive login and register sections
+Multiple pages describing about college services and infrastructure
+And Interactive login and register sections
